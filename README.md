@@ -6,5 +6,6 @@
 
 ### Team Memebers: Nisha Sharma, Pooja Bhather, Rakesh Gehlot, Rashi Singhvi , Mohammed Aadil, Pallav Purohit
 
-Currently this repository not include all the files regarding project we did in our internship as their error in merging big files from original repository
+Currently this repository not include all the files regarding project we did in our internship as their error in merging big files from original repository<br>
+
 Check my project on this link: https://github.com/Rakeshgehlot34/Multichannel_Marketing_Attributes
